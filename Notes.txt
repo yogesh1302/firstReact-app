@@ -17,3 +17,4 @@ Overall, NPM is an essential tool for modern JavaScript development, streamlinin
 
 * npm init - Initializes a new Node.js project and creates a package.json file.
 npm install -D <package-name> - Installs a package as a development dependency.
+* npx parcel index.html - Uses npx to run Parcel bundler on the index.html file without installing it globally.
